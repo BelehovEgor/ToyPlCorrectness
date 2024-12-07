@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ToyPlCorrectness": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../Examples/odd.tpl"
+    }
+  }
+}
